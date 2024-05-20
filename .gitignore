@@ -1,0 +1,24 @@
+node_modules
+bundle.js
+bundle.js.gz
+
+config.js
+
+package-lock.json
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+
+### Node ###
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.txt
