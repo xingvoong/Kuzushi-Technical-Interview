@@ -1,4 +1,3 @@
-
 # Submission for Kuzushi-Technical-Interview
 
 ## Explanation:
